@@ -1,0 +1,41 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neo Photography</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="section1">
+        <div>
+            <h1 id="titleName">Neo Photography</h1>
+            <h2 id="titleDescription">Beautiful Commercial Photography</h2><br>
+            <a href="#section2" id="viewWork">View Work</a>
+        
+            <img src="Screenshot (58).png" id="backGroundImage">
+        </div>
+    </section>
+    <section class="section2" id="section2">
+        <div>
+            <h1 id="ourWork">
+                Our Work
+            </h1>
+            <img src="Screenshot (59).png" id="firstImage">
+            <img src="Screenshot (60).png" id="secondImage">
+            <p id="firstImageName">FOOD PHOTOGRAPHY</p>
+        </div>
+        <div>
+            <img src="Screenshot (61).png" id="thirdImage">
+            <p id="secondImageName" >
+                Aerial Photography
+            </p>
+            <div>
+                <img src="Screenshot (62).png" id="fourthImage">
+                <p id="thirdImageName">Abstract Photography</p>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
