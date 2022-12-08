@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Friends Book</title>
+</head>
+    <body style="background-color:green;">
+    <link rel="stylesheet"href="style.css">
+<section1>    
+<h1 align="center">VEGETABLE SALAD</h1>
+   <center> <img src="Screenshot (63).png" id="vegetablesaladimage"> </center>
+    <center style=color:blue;><h2 id="benefits">Benefits Of Vegetable Salad</h2></center>
+    <center><p id="benefitsparagraph">Salad greens contain Vitamin A, Vitamin C, beta-carotene, calcium, folate, fiber, and phytonutrients</p></center>
+    <center style=color:blue;><h2 id="steps">Steps to make vegetables</h2></center>
+    <center><ul id="stepForVegetableSalad">
+        <li>For an appetizer, plan on serving about 2–3 oz (55–85g) of (total) greens per person.</li>
+        <li>Avoid the more common curly kale, which is tough to eat raw.</li>
+        <li>Kale also benefits from "massaging" to break down the fibers. Place it in a bowl of acidic dressing and squeeze handfuls of leaves with moderate pressure</li>
+        <li>Let sit for 5–15 minutes before serving.</li>
+        <li>Add softer greens. A variety of textures is key to a good salad</li>
+        <li>Add a roughly equal amount of arugula, spinach, butter leaf lettuce, or another soft, leafy green to your salad.</li>
+        <li>Handle these gently while washing and chopping, as soft leaves tend to bruise more easily.</li>
+    </ul></center>
+        <footer align="center"id="footerText">this vegetable salad should be made with the above mentioned steps</footer>
+</section>
+</body>        
