@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fav Food</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="section1">  
+            <img src="Screenshot (9).png" alt="berries" id="titleImage">  
+            <div class="image1Text" id="titleName">
+                <i>  
+                <h3> SOME OF MY FAV </h3>
+                <h1> FOODS </h1>
+                </i>
+            </div>
+    </section>
+
+    <section class="section2">
+        <h1 id="favFood1"> PIZZA </h1>
+        <p id="foodDescription"> Pizza is a dish of Italian origin consisting of a usually round, flat base of leavened wheat-based dough topped with tomatoes, cheese. </p>
+        <div class="container">
+            <img src="Screenshot (55).png" alt="pizza" id="favFoodImage1">
+        </div>
+    </section>
+
+    <section class="section3">
+        <h1 id="favFood2"> MUTTON CURRY </h1>
+        <p id="foodDescription2"> Each country has its unique seasoning and preferred cut of mutton but the base flavor is still the same. </p>
+        <div class="container">
+            <img src="Screenshot (56).png" alt="chicken" id="favFoodImage2">
+        </div>
+    </section>
+
+    <section class="section4">
+        <h1 id="favFood3"> SALAD </h1>
+        <p id="foodDescription3" > A salad is a dish consisting of mixed, mostly natural ingredients with at least one raw ingredient </p>
+        <div class="container">
+            <img src="Screenshot (57).png" alt="salad" id="favFoodImage3">
+        </div>
+    </section>
+</body>
+</html>
