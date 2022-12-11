@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="TitleName">FRIENDS BOOK</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <img src="Screenshot (65).png" id="backgroundImage" height="1200">
+<form id="yourName">
+    <section class ="container">
+    <div class="text">
+        <h1>FRIENDS BOOK</h1>
+<label id="yourName">Your Name:</label>
+<input type="text" id="textBox"><br><br>
+<label id="field1">1.A message for me:</label><br><br>
+<input type="text" id="textBox1"><br><br>
+<label for="message">2.A nick name for me:</label><br><br>
+<input type="text" id="textBox2"><br><br>
+<label for="yesMayBe">Have you ever lied to me?</label><br><br>
+<input type="radio" id="yesMayBe" value="yes">yes
+<input type="radio" id="yesMayBe" value="maybe">maybe<br><br>
+<label for="yesMayBe">how do you feel when you talk to me?</label><br><br>
+<input type="radio" id="yesMayBe" value="yes">Happy
+<input type="radio" id="yesMayBe" value="maybe">irritated<br><br>
+<label for="yesMayBe">do you like to go on a roadtrip with me?</label><br><br>
+<input type="radio" id="yesMayBe" value="yes">yes
+<input type="radio" id="yesMayBe" value="maybe">no<br><br>
+Best color that suits<br><br>
+<input type="checkbox" id="bestColour" name="red" value="red">
+<label for="red">red</label>
+<input type="checkbox" id="bestColour" name="black" value="black">
+<label for="black">black</label>
+<input type="checkbox" id="bestColour" name="white" value="white">
+<label for="white">white</label>
+<input type="checkbox" id="bestColour" name="blue" value="blue">
+<label for="blue">blue</label>
+<input type="checkbox" id="bestColour" name="green" value="green">
+<label for="green">green</label><br><br>
+<label for="s">The best moment in our friendship?</label><br><br>
+<input type="text">
+</div>
+
+</section>
+</body>
+</html>

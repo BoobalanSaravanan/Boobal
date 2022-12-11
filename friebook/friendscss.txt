@@ -1,0 +1,26 @@
+.section1{
+    text-align: center;
+    position :absolute;
+}
+.container{
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 10px;
+    transform: translate(auto,auto);
+    position: absolute;
+    font-weight: bolder;
+    top: 10%;
+    left: 100px;   
+    padding: 30px; 
+    width: 80%;
+    color: white;
+    font-weight: bolder;
+    background-color: rgba(19, 19, 58, 0.5);
+    line-height: 30px;
+    font-size: 23px;
+    text-align: center;
+}
+.img{
+    height: 70rem;
+    width: 100%;
+}
